@@ -1,0 +1,23 @@
+{
+  "name": "gif_search",
+  "version": "1.0.0",
+  "description": "gif search tutorial",
+  "homepage": "https://github.com/meganclapinski25/gif_search#readme",
+  "bugs": {
+    "url": "https://github.com/meganclapinski25/gif_search/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganclapinski25/gif_search.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
