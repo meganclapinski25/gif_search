@@ -64,3 +64,4 @@ Thumbs.db
 .yarn-integrity
 
 # Optional lock files (if you prefer to ignore)
+.env
